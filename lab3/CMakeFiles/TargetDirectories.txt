@@ -1,0 +1,4 @@
+/home/leak_lover/OOP/LAB_OOP/lab3/CMakeFiles/main.dir
+/home/leak_lover/OOP/LAB_OOP/lab3/CMakeFiles/test.dir
+/home/leak_lover/OOP/LAB_OOP/lab3/CMakeFiles/edit_cache.dir
+/home/leak_lover/OOP/LAB_OOP/lab3/CMakeFiles/rebuild_cache.dir

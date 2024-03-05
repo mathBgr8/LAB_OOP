@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o CMakeFiles/main.dir/src/figure.cpp.o CMakeFiles/main.dir/src/rectangle.cpp.o CMakeFiles/main.dir/src/rhombus.cpp.o CMakeFiles/main.dir/src/point.cpp.o CMakeFiles/main.dir/src/trapezoid.cpp.o -o main 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbox_cap.a CMakeFiles/box_cap.dir/src/box_cap.cpp.o
+/usr/bin/ranlib libbox_cap.a

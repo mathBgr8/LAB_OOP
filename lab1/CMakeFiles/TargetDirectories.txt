@@ -1,0 +1,5 @@
+/home/leak_lover/OOP/LAB_OOP/lab1/CMakeFiles/box_cap.dir
+/home/leak_lover/OOP/LAB_OOP/lab1/CMakeFiles/main.dir
+/home/leak_lover/OOP/LAB_OOP/lab1/CMakeFiles/test.dir
+/home/leak_lover/OOP/LAB_OOP/lab1/CMakeFiles/edit_cache.dir
+/home/leak_lover/OOP/LAB_OOP/lab1/CMakeFiles/rebuild_cache.dir

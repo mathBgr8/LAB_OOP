@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmoney.a CMakeFiles/money.dir/src/money.cpp.o
+/usr/bin/ranlib libmoney.a

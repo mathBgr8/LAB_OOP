@@ -1,0 +1,5 @@
+/home/leak_lover/OOP/LAB_OOP/lab2/CMakeFiles/money.dir
+/home/leak_lover/OOP/LAB_OOP/lab2/CMakeFiles/main.dir
+/home/leak_lover/OOP/LAB_OOP/lab2/CMakeFiles/test.dir
+/home/leak_lover/OOP/LAB_OOP/lab2/CMakeFiles/edit_cache.dir
+/home/leak_lover/OOP/LAB_OOP/lab2/CMakeFiles/rebuild_cache.dir

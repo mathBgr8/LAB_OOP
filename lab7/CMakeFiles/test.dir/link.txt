@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/test.dir/tests/test.cpp.o CMakeFiles/test.dir/src/npc.cpp.o CMakeFiles/test.dir/src/knight.cpp.o CMakeFiles/test.dir/src/druid.cpp.o CMakeFiles/test.dir/src/elf.cpp.o -o test  /usr/local/lib/libgtest.a 

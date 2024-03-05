@@ -1,0 +1,28 @@
+
+Murder --------
+druid: { x:92, y:86} 
+druid: { x:86, y:83} 
+
+Murder --------
+druid: { x:86, y:83} 
+druid: { x:92, y:86} 
+
+Murder --------
+Elf: { x:59, y:90} 
+druid: { x:67, y:68} 
+
+Murder --------
+Elf: { x:36, y:72} 
+druid: { x:67, y:68} 
+
+Murder --------
+Elf: { x:30, y:82} 
+druid: { x:67, y:68} 
+
+Murder --------
+druid: { x:67, y:68} 
+druid: { x:40, y:26} 
+
+Murder --------
+druid: { x:40, y:26} 
+druid: { x:67, y:68} 
